@@ -77,6 +77,9 @@ The application comes with pre-configured admin accounts:
 - `docker-compose.yml` - Docker Compose configuration
 - `nginx.conf` - Nginx web server configuration
 
+### Special Thanks
+Special thanks to @vahiddu(Vahit Ustaoglu) for valuable contributions to the project idea and design. 
+
 ## Türkçe
 
 ### Proje Genel Bakış
@@ -152,4 +155,7 @@ Uygulama, önceden yapılandırılmış yönetici hesaplarıyla birlikte gelir:
 - `src/dbconfig.php` - Veritabanı yapılandırması
 - `Dockerfile` - Docker yapılandırması
 - `docker-compose.yml` - Docker Compose yapılandırması
-- `nginx.conf` - Nginx web sunucusu yapılandırması 
+- `nginx.conf` - Nginx web sunucusu yapılandırması
+
+### Teşekkürler
+Proje fikri ve tasarımı konusunda değerli katkılarından dolayı @vahiddu (Vahit Ustaoglu) teşekkür ederim.
