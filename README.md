@@ -1,5 +1,4 @@
-# VADI Project - İnovasyon Portalı
-
+# VADI Project
 ## English
 
 ### Project Overview
