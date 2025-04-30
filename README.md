@@ -31,8 +31,8 @@ This application allows users to submit project proposals, research papers, pate
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/vadi-innovation-hub.git
-   cd vadi-innovation-hub
+   git clone https://github.com/kariyertech/vadi.git
+   cd vadi
    ```
 
 2. Start the application using Docker Compose:
