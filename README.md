@@ -5,6 +5,9 @@
 
 This application allows users to submit project proposals, research papers, patents, and process automation ideas. Submitted information is stored in a PostgreSQL database. Administrators can view, manage, and approve or deny submissions through a secure admin interface.
 
+
+![ekran_resmi](https://i.imgur.com/uW4m3Hn.png)
+
 ### Features
 
 - Multi-purpose submission form for innovation ideas
@@ -84,6 +87,9 @@ Special thanks to @vahiddu(Vahit Ustaoglu) for valuable contributions to the pro
 ### Proje Genel Bakış
 
 Bu uygulama, kullanıcıların proje önerileri, araştırma makaleleri, patentler ve süreç otomasyonu fikirlerini sunmalarına olanak tanır. Gönderilen bilgiler PostgreSQL veritabanında saklanır. Yöneticiler, güvenli bir yönetici arayüzü aracılığıyla gönderilenleri görüntüleyebilir, yönetebilir ve onaylayabilir veya reddedebilir.
+
+![ekran_resmi](https://i.imgur.com/uW4m3Hn.png)
+
 
 ### Özellikler
 
